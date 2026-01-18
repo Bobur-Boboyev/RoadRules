@@ -11,7 +11,7 @@ Users learn driving theory step by step:
 - Users must pass tests to unlock the next lesson
 - Progress is saved in the user account
 
----
+
 
 ## ✨ Planned Features
 
@@ -23,7 +23,7 @@ Users learn driving theory step by step:
 - Recommendations for weak topics
 - Progress tracking
 
----
+
 
 ## 🛠 Tech Stack (Planned)
 
@@ -31,7 +31,7 @@ Users learn driving theory step by step:
 - **Backend:** Python (Django or FastAPI)
 - **Database:** PostgreSQL / SQLite
 
----
+
 
 ## 🚧 Project Status
 
@@ -39,20 +39,20 @@ This project is in early development.
 
 I am currently learning backend development and will improve the project step by step as my skills grow.
 
----
+
 
 ## 🤝 Contributing
 
 Suggestions and ideas are welcome.  
 Feel free to open an issue or submit a pull request.
 
----
+
 
 ## 📜 License
 
 License will be added later.
 
----
+
 
 ## ✍️ Author
 
